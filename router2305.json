@@ -10,6 +10,17 @@
 		"mod": "BananaPi-BPi-R3",
 		"addons": ["readme.pdf"]
 	},
+	"GTW360": {
+		"details": "Geniatech GTW360",
+		"type": "1",
+		"build": "2305",
+		"config": ".config_gtw360",
+		"image1": "openwrt-imx-cortexa7-geniatech_gtw360-squashfs-sysupgrade.bin",
+		"imagepath": "/imx/cortexa7/",
+		"mod": "Geniatech GTW360",
+		"ext1": "sysupgrade.bin",
+		"addons": ["readme.pdf"]
+	},
 	"OMNIA": {
 		"details": "Turris Omnia-2305",
 		"type": "1",
